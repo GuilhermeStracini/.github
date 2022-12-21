@@ -7,6 +7,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://blog.guilhermebranco.com.br/)](https://blog.guilhermebranco.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gui.stracini/)](https://www.instagram.com/gui.stracini/)
 [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/guibranco)](https://profile.codersrank.io/user/guibranco)
+[![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ----
 
@@ -14,8 +15,18 @@ This is a organization account that holds templates, POCs, Hello Worlds study ca
 
 I use this account to keep on going things separetad from my main account, that holds stable projects only.
 
-- Main (stable) projects: [@GuiBranco](https://github.com/guibranco)
-- Test/POCs [@GuilhermeStracini](https://github.com/guilhermestracini)
-- API BR project [@ApiBR](https://github.com/ApiBr)
+## Organizations
+
+[![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) Main account with stable projects.
+
+[![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) POCs, Hello Worlds and learning stuff.
+
+[![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) API BR project (free apis with brazilian data).
+
+[![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) Job opportunities for .NET developers in Brazil.
+
+[![@ApiBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) Job opportunities for Python developers in Brazil.
+
+[![@ApiBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) Job opportunities for Rust developers in Brazil.
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
