@@ -11,7 +11,7 @@
 
 ----
 
-This is a organization account that holds templates, POCs, Hello Worlds study cases and other experimental projects.
+This is an organization account that holds templates, POCs, Hello Worlds study cases and other experimental projects.
 
 I use this account to keep on going things separetad from my main account, that holds stable projects only.
 
