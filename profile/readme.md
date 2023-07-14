@@ -14,9 +14,11 @@
 
 ----
 
-🔭 This organization account holds templates, POCs, Hello Worlds study cases, and other experimental projects.
-
-🔭 I use this account to keep ongoing things separate from my main account, which holds stable projects only.
+> **Warning**
+>
+> 🔭 This organization account holds templates, POCs, Hello Worlds study cases, and other experimental projects.
+>
+> 🔭 I use this account to keep ongoing things separate from my main account, which holds stable projects only.
 
 ## Organizations
 
