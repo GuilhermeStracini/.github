@@ -20,19 +20,23 @@
 >
 > 🔭 I use this account to keep ongoing things separate from my main account, which holds stable projects only.
 
-## Organizations
+---
+
+## 💻 Organizations
 
 | Account | Description |
 | ------- | ----------- |
-| [![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) | Main account with stable projects. :octocat: |
-| [![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) | POCs, Hello Worlds and learning stuff. 🧪 |
-| [![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) | API BR project (free apis with Brazilian data). ⚙️ |
-| [![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) | Job opportunities for .NET developers in Brazil. 🇧🇷 |
-| [![@PyDevBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) | Job opportunities for Python developers in Brazil. 🇧🇷 |
-| [![@RustDevBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) | Job opportunities for Rust developers in Brazil. 🇧🇷 |
-| [![@backend-ao](https://img.shields.io/badge/-Backend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-ao) | Job opportunities for backend developers in Angola. 🇦🇴 |
-| [![@frontend-ao](https://img.shields.io/badge/-Frontend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-ao) | Job opportunities for frontend developers in Angola. 🇦🇴 |
-| [![@backend-pt](https://img.shields.io/badge/-Backend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-pt) | Job opportunities for backend developers in Portugal. 🇵🇹 |
-| [![@frontend-pt](https://img.shields.io/badge/-Frontend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontned-pt) | Job opportunities for frontend developers in Portugal. 🇵🇹 |
+| [![@GuiBranco](https://img.shields.io/badge/-GuiBranco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiBranco) | :octocat: Main account with stable projects. |
+| [![@GuilhermeStracini](https://img.shields.io/badge/-GuilhermeStracini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeStracini) | 🧪 POCs, Hello Worlds and learning stuff. |
+| [![@ApiBR](https://img.shields.io/badge/-ApiBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApiBr) | ⚙️ API BR project (free APIs with Brazilian data). |
+| [![@DotNetDevBR](https://img.shields.io/badge/-.NETDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnetdevbr) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> Job opportunities for .NET developers in Brazil. |
+| [![@PyDevBR](https://img.shields.io/badge/-PyDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pydevbr) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> Job opportunities for Python developers in Brazil. |
+| [![@RustDevBR](https://img.shields.io/badge/-RustDevBR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustdevbr) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" /> Job opportunities for Rust developers in Brazil. |
+| [![@backend-ao](https://img.shields.io/badge/-Backend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-ao) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ao.svg" width="16" alt="Angola flag" /> Job opportunities for backend developers in Angola. |
+| [![@frontend-ao](https://img.shields.io/badge/-Frontend--AO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontend-ao) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ao.svg" width="16" alt="Angola flag" /> Job opportunities for frontend developers in Angola. |
+| [![@backend-pt](https://img.shields.io/badge/-Backend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backend-pt) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> Job opportunities for backend developers in Portugal. |
+| [![@frontend-pt](https://img.shields.io/badge/-Frontend--PT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frontned-pt) | <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pt.svg" width="16" alt="Portugal flag" /> Job opportunities for frontend developers in Portugal. |
+
+---
 
 ![](https://hit.yhype.me/github/profile?user_id=3362854)
