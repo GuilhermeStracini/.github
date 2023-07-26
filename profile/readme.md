@@ -14,7 +14,7 @@
 
 ----
 
-> **Warning**
+>  **Warning**
 >
 > 🔭 This organization account holds templates, POCs, Hello Worlds study cases, and other experimental projects.
 >
