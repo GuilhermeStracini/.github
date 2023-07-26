@@ -9,10 +9,11 @@
 [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/guibranco)](https://profile.codersrank.io/user/guibranco)
 [![ProfileViews](https://komarev.com/ghpvc/?username=guibranco&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil 🇧🇷, living in Dublin, Ireland 🇮🇪. <br />
+💁 My name is **Guilherme Branco Stracini**, I'm from São Paulo, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Dublin, Ireland <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ie.svg" width="16" alt="Ireland flag" />.
+<br />
 🗣️ The correct pronunciation of my name is [**[ɡiˈʎɛɾmi]**, that's a portuguese name](https://en.wikipedia.org/wiki/Guilherme).
 
-----
+---
 
 >  **Warning**
 >
