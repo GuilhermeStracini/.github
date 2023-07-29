@@ -21,7 +21,7 @@
 >
 > 🔭 This organization account holds templates, POCs, Hello Worlds study cases, and other experimental projects.
 >
-> 🔭 I use this account to keep ongoing things separate from my main account, which holds stable projects only.
+> 🔭 I use this organization profile to keep ongoing study/test things separate from my main account, which holds real-world projects only.
 
 ---
 
